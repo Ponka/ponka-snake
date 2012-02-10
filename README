@@ -1,0 +1,22 @@
+NAME
+
+	ponka-snake - Simple text-based snake game for console. 
+
+DEPENDENCES
+	
+	- libncurses-dev: In order to compile you will need ncurses
+	  		  header files. Debian and Ubuntu users:
+			  
+			  $ apt-get install libncurses5-dev
+BUILDING
+
+	make
+
+
+BUGS
+
+	I am sure.
+
+AUTHOR
+
+	Ponka <ponka.kiszonka@gmail.com>
